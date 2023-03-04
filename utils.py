@@ -1,8 +1,6 @@
 """General utilities for training.
 
-Author:
-    Shrey Desai
-"""
+
 
 import os
 import json
