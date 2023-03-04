@@ -9,9 +9,7 @@ Usage:
         --dataset_path "datasets/squad_dev.jsonl.gz" \
         --output_path "squad_predictions.txt"
 
-Author:
-    Shrey Desai
-"""
+
 
 import argparse
 import gzip
