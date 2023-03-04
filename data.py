@@ -1,8 +1,6 @@
 """Dataset loader and data utilities.
 
-Author:
-    Shrey Desai and Yasumasa Onoe
-"""
+
 
 import collections
 import itertools
