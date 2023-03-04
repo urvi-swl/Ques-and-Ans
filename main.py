@@ -16,9 +16,7 @@ Usage:
         --do_train \
         --do_test
 
-Author:
-    Shrey Desai and Yasumasa Onoe
-"""
+
 
 import argparse
 import pprint
