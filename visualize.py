@@ -1,8 +1,6 @@
 """Prints QA examples.
 
-Author:
-    Shrey Desai and Yasumasa Onoe
-"""
+
 
 import argparse
 import random
