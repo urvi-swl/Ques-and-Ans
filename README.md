@@ -1,8 +1,8 @@
 # NLP QA Final Project
 
-This repository contains starter code for the Natural Language Processing final project on question answering. For specific details on deliverables and deadlines, please refer to the final project spec posted on the course website.
+This repository contains starter code for the Natural Language Processing final project on question answering. 
 
-Authors: Shrey Desai, Yasumasa Onoe, and Greg Durrett
+Authors: Urvi
 
 1. [Getting Started](#getting-started)
     1. [Packages and Dependencies](#packages-and-dependencies)
@@ -19,9 +19,7 @@ Authors: Shrey Desai, Yasumasa Onoe, and Greg Durrett
 
 To begin, clone this repository onto your local machine:
 
-```bash
-$ git clone https://github.com/gregdurrett/nlp-qa-finalproj.git
-```
+
 
 This project requires Python 3.6+ and the following dependencies:
 
