@@ -1,8 +1,6 @@
 """Model classes and model utilities.
 
-Author:
-    Shrey Desai and Yasumasa Onoe
-"""
+
 
 import torch
 import torch.nn as nn
